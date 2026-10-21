@@ -1,0 +1,11 @@
+pandas
+numpy
+torch
+scikit-learn
+imbalanced-learn
+shap
+joblib
+google-genai
+python-dotenv
+streamlit
+openpyxl

@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor
+.vscode/
+
+# Large / sensitive patient data (keep sample_upload and splits)
+data/raw/
+data/processed/
+
+# Runtime state and logs (may contain patient data)
+outputs/logs/
+outputs/dashboard_store.json
